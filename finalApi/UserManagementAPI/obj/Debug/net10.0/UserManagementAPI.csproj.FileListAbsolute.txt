@@ -1,0 +1,8 @@
+C:\csproj\finalApi\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.csproj.AssemblyReference.cache
+C:\csproj\finalApi\UserManagementAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\csproj\finalApi\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\csproj\finalApi\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.AssemblyInfoInputs.cache
+C:\csproj\finalApi\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.AssemblyInfo.cs
+C:\csproj\finalApi\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.csproj.CoreCompileInputs.cache
+C:\csproj\finalApi\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\csproj\finalApi\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
